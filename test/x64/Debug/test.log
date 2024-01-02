@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Yoga\Desktop\vs_project\test\Main.cpp(289,19): warning C4101: 'e': unreferenced local variable
+  test.vcxproj -> C:\Users\Yoga\Desktop\vs_project\test\x64\Debug\test.exe
